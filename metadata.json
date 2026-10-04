@@ -1,0 +1,6 @@
+{
+  "name": "FreshMart RMS — Quản Lý Bán Lẻ Thực Phẩm",
+  "description": "Hệ thống quản lý bán hàng và chuỗi cửa hàng thực phẩm với POS offline-first, quản lý kho theo lô FEFO, bản đồ chi nhánh và thanh toán MoMo/VNPAY/VietQR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

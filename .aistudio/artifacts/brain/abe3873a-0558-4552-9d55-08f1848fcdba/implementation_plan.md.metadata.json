@@ -1,0 +1,6 @@
+{
+  "summary":  "Kế hoạch triển khai kiến trúc Backend cho Hệ Thống Quản Lý Bán Lẻ Thực Phẩm (FreshMart RMS) với Node.js Express, cơ sở dữ liệu SQLite, cơ chế xác thực JWT RBAC 4 vai trò, API phân bổ kho FEFO và công cụ đồng bộ hóa đơn ngoại tuyến Idempotent Batch Sync.",
+  "updatedAt":  "2026-10-04T14:52:13.725549919Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
